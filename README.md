@@ -17,6 +17,8 @@ Welcome to the CustomNotificationView documentation!
 
 Introducing CustomNotificationView: The ultimate in-app notification framework. With unparalleled customization options including fonts, colors, animations, and sounds, each message becomes a unique experience. Seamlessly integrate with just one line of code, specifying the message content and optional title. Messages elegantly appear from the top with captivating animations, automatically disappearing after a set time. Elevate your user engagement effortlessly with CustomNotificationView.
 
+![Demo GIF](https://github.com/eslamali423/CustomNotificationView/blob/main/giphy.gif)
+
 ## Requirements
 The CustomNotificationView requires Xcode 10.1 or later and is compatible with apps targeting iOS 13 or above.
 
