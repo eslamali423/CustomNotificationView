@@ -1,2 +1,1 @@
-# CustomNotificationView
- 
+# CustomMessageView
